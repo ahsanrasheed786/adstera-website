@@ -1,0 +1,1 @@
+/* Dark mode is initialized in app.js to avoid duplicated event listeners. */

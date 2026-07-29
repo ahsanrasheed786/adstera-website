@@ -1,0 +1,1 @@
+/* The generated table of contents lives in app.js. */

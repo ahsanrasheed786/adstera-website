@@ -1,0 +1,1 @@
+/* Search and category filtering are initialized in app.js to keep the site fast. */
